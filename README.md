@@ -1,2 +1,2 @@
 # JP-IOD-Ex1
-Institute of Data Software Engineering Exercise 2
+Institute of Data Software Engineering Exercise 1&2
